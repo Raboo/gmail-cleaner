@@ -14,7 +14,7 @@ Create a Google Apps Script project at https://script.google.com/ using the cont
 Update `delete_queries` array to match your needs.  
 Save, then run function `requestPermission` to get the appropriate permissions.   
 After that run function addTriggers to add triggers that will execute the cleaner first after 6 minutes, then once per day.  
-It will move 500 e-mails to trash per execution. If there are more e-mails to be moved, it will add another trigger after 6 minutes and continue to do so until it is done.
+It will move 500 e-mail conversations/threads to trash per execution. If there are more e-mails to be moved, it will add another trigger after 6 minutes and continue to do so until it is done.
 
 
 ## Contributing
