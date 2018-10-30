@@ -10,7 +10,7 @@ More info on Gmail Queries Given below.
 
 ## Getting Started
 
-Create a Google Apps Script project at https://script.google.com/ using the contents of delete-old-gmail.gs.  
+Create a Google Apps Script project at https://script.google.com/ using the content of delete-old-gmail.gs.  
 Update `delete_queries` array to match your needs.  
 Save, then run function `requestPermission` to get the appropriate permissions.   
 After that run function addTriggers to add triggers that will execute the cleaner first after 6 minutes, then once per day.  
