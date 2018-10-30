@@ -1,4 +1,4 @@
-This script will move Gmail emails to trash matching defined search queries.
+This Google Apps script will move Gmail e-mails matching defined search queries to trash.
 
 More info on Gmail Queries Given below.
 * [Gmail Query Search](https://support.google.com/mail/answer/7190?hl=en)
